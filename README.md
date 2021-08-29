@@ -66,7 +66,7 @@ $ apt upgrade
 $ pkg install git
 $ git clone https://github.com/mhdta23/MR-TECH-BOT
 $ ls
-$ cd mrtechbot
+$ cd MR-TECH-BOTv2
 $ npm i
 $ node qr.js
    // scan the qr using whatsapp web on your phone
